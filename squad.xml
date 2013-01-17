@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="GSN">
+	<name>GSN Gaming - PC Gaming Community</name>
+	<email>info@gsngaming.com</email>
+	<web>www.gsngaming.com</web>
+	<picture>logo.paa</picture>
+	<member id="43860038" nick="LightEightSix">
+		<name>LightEightSix</name>
+		<remark>Like A Boss</remark>
+	</member>
+	
+	<member id="44836550" nick="Airacobra">
+		<name>Airacobra</name>
+		<remark>I SEE HIM!!!</remark>
+	</member>
+
+	<member id="33493318" nick="Paronity">
+		<name>Paronity</name>
+		<remark>Balls Deep</remark>
+	</member>
+
+	<member id="44106630" nick="JackDee">
+		<name>JackDee</name>
+		<remark>Drinkin it all!</remark>
+	</member>
+	
+	<member id="32651014" nick="Hacksaw Jack">
+		<name>Hacksaw Jack</name>
+		<remark>Engineer to the Stars!</remark>
+	</member>
+
+	<member id="55902662" nick="IdahO_goLd">
+		<name>IdahO_goLd</name>
+		<remark>I miss the rains down in Africa...</remark>
+	</member>
+
+	<member id="30924678" nick="BadBadRobot">
+		<name>BadBadRobot</name>
+		<remark>GET SOME</remark>
+	</member>
+
+	<member id="38469958" nick="Officer Nimbus">
+		<name>Officer Nimbus</name>
+		<remark>Bad Boys Bad Boys</remark>
+	</member>
+
+	<member id="39256262" nick="Rando">
+		<name>Rando</name>
+		<remark>Get Some !!</remark>
+	</member>
+
+	<member id="79067398" nick="HeadWord">
+		<name>HeadWord</name>
+		<remark>Got Head ?</remark>
+	</member>
+
+
+	<member id="28702272" nick="11B30">
+		<name>11B30</name>
+		<remark>RECON!</remark>
+	</member>
+
+	<member id="5991622" nick="Poppy">
+		<name>Poppy</name>
+		<remark>One Shot..One Kill</remark>
+	</member>
+
+	<member id="29548806" nick="MrMackeyMKayyy">
+		<name>MrMackeyMKayyy</name>
+		<remark>Drugs are Bad... MKayyy!</remark>
+	</member>
+	
+	<member id="12345678" nick="Name">
+		<name></name>
+		<remark></remark>
+	</member>
+</squad>
